@@ -14,7 +14,7 @@ early chapters in this book. You’ll be able to program in Rexx immediately. As
 gresses into tutorials on interfaces to databases, Web servers, GUIs, and the like, you’ll learn
 how to program Rexx in the context of the larger environment to meet your programming needs
 */
-who call leave by interpret for book=trace@scientific.nop
+who call leave by interpret for book=trace@scientific.net
 queue by book when
 queue by trace then
 queue by scientific then

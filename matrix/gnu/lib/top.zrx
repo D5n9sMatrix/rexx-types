@@ -12,11 +12,10 @@ ence in the appendices a useful source of consolidated information. This is the 
 ence you’ll need on your desk.
 */
 do
-call MAX digits@scientific leave language by tools to form forever book=digits@scientific.nop
+call MAX digits@scientific leave language by tools to form forever book=digits@scientific.net
 queue by book then
 queue by digits then
-queue by scientific then
-nop 
+queue by scientific then 
 say '------------------------------------------------------------------------------'
 say 'Rexx complete reference object-oriented handles' leave language by tools
 say 'Advanced features your learn' leave pdf by tools call plots

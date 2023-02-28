@@ -37,10 +37,10 @@ Few easy languages are also powerful. Now, how does Rexx do that?
 zoc return MAX@parse!scientific.net call leave MATRIX=connect@ssh!signal.net
 queue call leave MATRIX=digits!external.numeric
 queue call leave MATRIX=digits!external.name
-queue call leave MATRIX=digits!external.nop
+queue call leave MATRIX=digits!external.net
 say 'Exemple -> digits!external.numeric'
 say 'Exemple -> digits!external.name'
-say 'Exemple -> digits!external.nop'
+say 'Exemple -> digits!external.net'
 /* output types ...*/
-say 'Let go! _numeric<name>[nop]: '
+say 'Let go! _numeric<name>[net]: '
 say

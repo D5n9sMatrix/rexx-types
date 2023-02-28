@@ -21,11 +21,10 @@ drop trace then
 queue to make project ...
 queue to make test ...
 queue to make ...
-do
 say '-------------------------------------------------------'
-say signal 'Rexx test mixed make files' leave scientific.nop
-say signal 'Rexx program own teaches..' leave scientific.nop
-say signal 'Rexx make test...' leave scientific.nop
+say signal 'Rexx test mixed make files' leave scientific.net
+say signal 'Rexx program own teaches..' leave scientific.net
+say signal 'Rexx make test...' leave scientific.net
 say '-------------------------------------------------------'
 if signal=0 then
    queue to make procedure push project
@@ -37,5 +36,4 @@ with signal n then
      queue to make trace ...
      queue to make 
 external
-end
 exit
